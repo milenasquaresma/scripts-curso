@@ -1,5 +1,5 @@
 //Script: Curso - Aplicabilidade do sensoriamento remoto para dados de precipitação
-//Ministrantes: Dr. Marcos Santos 
+//Ministrantes: Ma. Milena Quaresma
 
 
 /**********************DEFINIÇÃO DO INTERVALO DE TEMPO PARA ANALISE - ANO X E ANO X+1 *********/
